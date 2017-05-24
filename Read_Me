@@ -1,0 +1,16 @@
+######Input File Column Layout#####
+1 Library
+2 Fasta
+3 Reference Fasta
+4 GFF File
+5 Genome Index
+6 Transcriptome Index
+7 ERCC Spike-In Fasta
+8 Insert Size
+9 Read Length
+10 Tophat mate distance standard deviation
+11 Minimum Intron Size
+12 Maximum Intron Size
+13 Bowtie2 Minimum Insert Size
+14 Bowtie3 Maximum Insert Size
+15 Reference Id to be used for cufflinks compiling
